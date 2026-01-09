@@ -96,12 +96,4 @@ The generative response requires a Hugging Face token:
 
 ---
 
-## 📧 Dataset Access
-The dataset (`final_dataset.csv`) used for training is not included in this repository to maintain privacy and data integrity. 
-
-If you are a researcher or developer interested in the data for educational purposes, please contact me via email to request access.
-
-**Contact Email**: [YOUR_EMAIL_HERE]
-
----
 > **Disclaimer**: This AI is intended for supportive and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
