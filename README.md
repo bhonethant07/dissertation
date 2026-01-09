@@ -17,6 +17,15 @@ The **Mental Health Companion** analyzes user input through a multi-faceted lens
 
 ---
 
+## 📥 Model Access
+
+Due to the size of the fine-tuned weights, the model is hosted externally. You will need to download the model directory before running the inference scripts.
+
+* **Download Link**: [Fine-tuned RoBERTa Model (Google Drive)](https://drive.google.com/drive/folders/1hlgm2Ko-03DIccTk3NC-Aq44g8rWyqQl?usp=drive_link) 
+* **Action Required**: Download the entire `model` folder and ensure it contains `model.safetensors` and `config.json`.
+
+---
+
 ## 📊 Phase 1: Model Comparison & Benchmarking
 
 To find the best engine for our companion, we evaluated five Transformer models on a custom mental health dataset.
